@@ -27,3 +27,10 @@ This beginner AWS project demonstrates how to deploy a basic static HTML website
 - Hosting static content using IIS on the cloud
 - First steps toward cloud web hosting
 
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasir-sayyed-b16520245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
+
