@@ -20,17 +20,6 @@ This beginner AWS project demonstrates how to deploy a basic static HTML website
 
 ---
 
-## 📸 Project Screenshots *(optional – add if available)*
-
-You can add these later:
-- Launch Windows EC2 instance
-- RDP login screen
-- IIS install screenshot
-- `index.html` created in `C:\inetpub\wwwroot`
-- Website accessed via browser using Public IP
-
----
-
 ## 🧪 Key Learning Outcomes
 
 - Understanding EC2 networking basics (key pairs, security groups, public IP)
